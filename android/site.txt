@@ -1,0 +1,66 @@
+
+https://42doproject.com/
+======================================
+volley get
+error 400
+https://www.masterqna.com/android/82128/%EC%95%84%EC%8B%9C%EB%8A%94-%EC%97%90%EB%9F%AC%EC%9D%B8%EC%A7%80-%ED%95%9C%EB%B2%88-%EB%B3%B4%EA%B3%A0-%EA%B0%80%EC%A3%BC%EC%84%B8%EC%9A%94
+
+//    https://hwiyong.tistory.com/18
+
+//    https://kamang-it.tistory.com/entry/VolleyJavavolley%EB%A1%9C-json%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B0%9B%EA%B8%B03
+
+https://galmaegi74.tistory.com/11
+
+https://developer.android.com/training/volley/request?hl=ko
+
+volley사용시 에러
+https://onlyfor-me-blog.tistory.com/118
+===============================
+	intent
+https://deumdroid.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%B2%84%ED%8A%BC-%ED%81%B4%EB%A6%AD-%EC%8B%9C-%ED%99%94%EB%A9%B4-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-Intent
+
+안드로이드 페이지 전환 스택
+https://bb-library.tistory.com/165
+===============================0208
+	recycler view 클론
+https://www.geeksforgeeks.org/cardview-using-recyclerview-in-android-with-example/
+
+	json
+https://jizard.tistory.com/25
+
+login_se clone
+https://fffounding.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EB%A7%8C%EB%93%A4%EA%B8%B0
+
+=================================
+로그인/db
+https://upcake.tistory.com/290?category=897701
+
+https://gakari.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C
+
+==========================레이아웃=========================
+
+리사이클러 뷰
+https://recipes4dev.tistory.com/154
+
+릴레이션레이아웃
+https://recipes4dev.tistory.com/126
+
+카드 
+https://jizard.tistory.com/23
+
+tab layout
+https://androman.tistory.com/125
+
+레이아웃 절반분할
+https://philosopher-chan.tistory.com/70
+
+==========================프래그먼트=========================
+
+findViewById in fragment
+https://swalloow.tistory.com/87
+
+context in fragment
+https://velog.io/@yeji/Fragment%EC%97%90%EC%84%9C-Context-findViewById-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+
+fragment tab layout
+https://duzi077.tistory.com/119
