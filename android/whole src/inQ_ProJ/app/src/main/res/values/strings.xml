@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">inQ_ProJ</string>
+    <string name="title_home">Home</string>
+    <string name="title_project">Project</string>
+    <string name="text_sample">horizon</string>
+    <string name="text_sample2">entire</string>
+    <string name="image_sample">logo</string>
+    <string name="text_skill">skill</string>
+    <string name="text_skill_user">sample</string>
+    <string name="text_position">position</string>
+    <string name="text_position_user">ple</string>
+    <string name="text_name">peter</string>
+    <string name="profile_image">profileImage</string>
+</resources>
