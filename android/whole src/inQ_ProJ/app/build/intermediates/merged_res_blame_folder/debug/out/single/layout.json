@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\page_register.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\page_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_se.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\item_se.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\profile.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\page_login.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\page_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_fragment3.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\tab_fragment3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_fragment1.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\tab_fragment1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_fragment2.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\tab_fragment2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_project.xml",
+        "source": "C:\\Users\\hath8\\AndroidStudioProjects\\inQ_ProJ\\app\\src\\main\\res\\layout\\fragment_project.xml"
+    }
+]
